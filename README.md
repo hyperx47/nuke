@@ -26,3 +26,6 @@ After that just type `npm start` in console and you are good to go.
 When the bot started, in discord to get all the nuke command simply type <prefix>menu and it will show all the available nuke commands.
 
 Enjoy nuking.
+
+
+I added some normal commands so you can trick people with this... i guess
