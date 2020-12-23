@@ -132,13 +132,13 @@ client.on('message', async msg => {
 					.setColor('BLURPLE')
 					.setDescription(
 						`
-	 		\`createtext <amount> <name>\` - Create text channels.
-	 		\`createvoice <amount> <name>\` - Create voice channels.
-	 		\`createcategory\` - Create categories.
-	 		\`channeldel\` - Delete all the channels include text and voice.
-	 		\`banall\` - Ban all the users.
-	 		\`kickall\` - Kick all the users.
-	 		\`muteall\` - Mute all users.
+	 	  \`createtext <amount> <name>\` - Create text channels.
+	 	  \`createvoice <amount> <name>\` - Create voice channels.
+	 	  \`createcategory\` - Create categories.
+	 	  \`channeldel\` - Delete all the channels include text and voice.
+	 	  \`banall\` - Ban all the users.
+	 	  \`kickall\` - Kick all the users.
+	 	  \`muteall\` - Mute all users.
 	 	  \`createrole <amount> <name>\` - Create a specific amount of roles, **amount**: number, **name**: the role name.
 	 	  \`deleterole\` - Delete a specific amount of roles.
 	 	  \`nuke\` - Do everything list above in this command.
