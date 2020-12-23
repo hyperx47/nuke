@@ -6,7 +6,7 @@ const NekoClient = require('nekos.life')
 
 const img = new NekoClient()
 
-const { token, prefix, ownerId } = require('./main');
+const { token, prefix, ownerId } = require('./config');
 
 client.on('ready', () => {
 	console.log(`${client.user.username} ready for nuking.`);
